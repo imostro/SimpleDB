@@ -1,0 +1,5 @@
+# Project exclude paths
+/cs186-db-proj1/target/
+/cs186-db-proj2/target/
+/cs186-db-proj3/target/
+/cs186-db-proj4/target/
